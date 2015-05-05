@@ -10,7 +10,7 @@
         android:id="@+id/label"
         android:layout_width="wrap_content"
         android:layout_height="80sp"
-        android:textSize="50sp"
+        android:textSize="40sp"
         android:paddingLeft="5dp"
         android:layout_gravity="left|center_vertical"
 
@@ -23,9 +23,9 @@
         android:id="@+id/value"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_gravity="right"
+        android:layout_gravity="center"
         android:paddingLeft="210dp"
-        android:textSize="47sp"
+        android:textSize="30sp"
 
         android:textColor="#437C17"
         android:layout_alignParentTop="true"
@@ -38,10 +38,10 @@
         android:id="@+id/value2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_gravity="right"
+        android:layout_gravity="center"
         android:paddingLeft="210dp"
 
-        android:textSize="47sp"
+        android:textSize="30sp"
         android:textColor="#8C001A"
         android:layout_alignParentTop="true"
         android:layout_alignParentLeft="true"
